@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12cc2d49-03bb-473b-8ea0-a8b5a3d28143" name="Changes" comment="added one line" />
+    <list default="true" id="12cc2d49-03bb-473b-8ea0-a8b5a3d28143" name="Changes" comment="added one line">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduson_git_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/eduson_git_test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +65,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature-1",
     "last_opened_file_path": "D:/PythonProject/Project01/.venv"
   },
   "keyToStringList": {
@@ -146,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1767790804542</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added one line">
+      <option name="closed" value="true" />
+      <created>1767790853879</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767790853879</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added one line">
+      <option name="closed" value="true" />
+      <created>1767790881457</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767790881457</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
